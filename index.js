@@ -1,4 +1,3 @@
-const clientesQueue = {};
 const priorityEnum = Object.freeze({ "Alta": 3, "Media": 2, "Baja": 1 });
 const priorityEnumReverse = Object.freeze({ "3": "Alta", "2": "Media", "1": "Baja" });
 
